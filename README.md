@@ -1,6 +1,6 @@
-![Masterhead]([https://plus.unsplash.com/premium_photo-1685086785054-d047cdc0e525?w=550&auto=format&fit=cover&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y29kaW5nfGVufDB8fDB8fHww](https://images.unsplash.com/photo-1607706189992-eae578626c86?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Y29kaW5nJTIwYW5pbWF0ZWR8ZW58MHx8MHx8fDA%3D))
+![Masterhead](https://plus.unsplash.com/premium_photo-1685086785054-d047cdc0e525?w=600&auto=format&fit=cover&align=center&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y29kaW5nfGVufDB8fDB8fHww)
 <h1 align="center">Hi 👋, I'm Abdul Majeed</h1>
-<h3 align="center">A passionate mobile app developer</h3>
+<h3 align="center">A passionate mobile app developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://png.pngtree.com/png-vector/20240309/ourmid/pngtree-developers-are-coding-programs-on-computers-programmers-are-analyzing-data-png-image_11902650.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdull-majeed&label=Profile%20views&color=0e75b6&style=flat" alt="abdull-majeed" /> </p>
