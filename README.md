@@ -1,6 +1,6 @@
 ![Masterhead](https://plus.unsplash.com/premium_photo-1685086785054-d047cdc0e525?w=600&auto=format&fit=cover&align=center&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y29kaW5nfGVufDB8fDB8fHww)
 <h1 align="center">Hi 👋, I'm Abdul Majeed</h1>
-<h3 align="center">A passionate mobile app developer </h3>
+<h3 align="center">A passionate agentic ai and mobile app developer </h3>
 <img align="right" alt="Coding" width="400" src="https://png.pngtree.com/png-vector/20240309/ourmid/pngtree-developers-are-coding-programs-on-computers-programmers-are-analyzing-data-png-image_11902650.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdull-majeed&label=Profile%20views&color=0e75b6&style=flat" alt="abdull-majeed" /> </p>
@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Rolevia AI**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **AI Engineering**
 
-- 💬 Ask me about **React Native**
+- 💬 Ask me about **Agentic AI & React Native**
 
 - 📫 How to reach me **majeedpalli46@gmail.com**
 
